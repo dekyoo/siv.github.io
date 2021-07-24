@@ -1,0 +1,112 @@
+body {
+	background-color: #fffdfd;
+	padding: 0;
+	margin: 0;
+	font-family: roboto;
+}
+
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+
+.back {
+	margin-left: 110px;
+	margin-top: 30px;
+	max-width: 1170px;
+	width: 100%;
+}
+.back h2 {
+	margin-top: 5px;
+	font-size: 20px;
+}
+.back p {
+	padding: 5px;
+	font-size: 45px;
+}
+.image {
+	margin-top: 20px;
+	margin-left: 5px;
+	color: #000;
+}
+.border {
+	background-color: #fdf7f7;
+	margin-top: 5px;
+	text-align: center;
+	padding: 25px;
+}
+.space {
+	width: 100%;
+	max-width: 1170px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+.space h2 {
+	font-size: 28px;
+	letter-spacing: 5px; 
+}
+.list ul {
+	padding: 10px;
+	margin-left: 450px;
+}
+.list li {
+	margin-left: 5px;
+	float: left;
+	font-size: 24px;
+}
+
+.space h3 {
+	font-size: 22px;
+	padding: 5px;
+	margin: 0;
+}
+.message {
+	float: left;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 70px;
+}
+.space p {
+	font-size: 20px;
+}
+input, textarea {
+	width: 400px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding: 20px;
+	font-size: 18px;
+	border: 1px solid #dee7ec;
+}
+.form-submit {
+	background-color: #dee7ec;
+	color: #889eab;
+	cursor: pointer;
+}
+.form-submit:hover {
+	background-color: #bbcdd8;
+	color: #637b8a;
+}
+.rangkum {
+	width: 100%;
+	margin: 0;
+	padding: 0 auto;
+}
+.kanan {
+	margin-top: 150px;
+	margin-right: 150px;
+	float: right;
+}
+.kanan img {
+	border-radius: 30%;
+}
+.bottom {
+	border-top: 1px solid #eee;
+	margin-top: 800px;
+}
+.bottom p {
+	padding: 10px;
+	text-align: center;
+	color: #999e88;
+}

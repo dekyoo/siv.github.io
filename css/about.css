@@ -1,0 +1,94 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #fdfcfc33;
+	font-family: Arial;
+}
+a {
+	text-decoration: none;
+	color: #000;
+	padding: 5px;
+	letter-spacing: 3px;
+}
+a:hover {
+	background: rgba(34,56,23,0.2);
+}
+
+li {
+	list-style: none;
+}
+.head {
+	margin: 5px;
+	padding: 5px;
+}
+.head h1 {
+	text-align: center;
+	color: #190ace;
+	font-weight: 100;
+}
+.lis {
+	padding: 10px;
+	margin-top: 5px;
+}
+.lis li {
+	font-size: 24px;
+	float: left;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.box {
+	height: 100vh;
+	width: 100%;
+	background-image: url(../img/dit.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	display: table;
+}
+
+h2{
+	letter-spacing: 5px;
+    font-family: arial black;
+    font-size: 50px;
+    color: white;
+    margin: 0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.bottom {
+	margin: 0;
+	padding: 0;
+}
+.me {
+	width: 100%;
+	margin-top: 30px;
+	color: #1c1c1d;
+	background: #f1f1f161;
+	letter-spacing: 2px;
+	line-height: 30px;
+}
+.me h3 {
+	padding: 10px;
+	font-size: 24px;
+	text-align: center;
+}
+.me p {
+	margin: 0 30px;
+	text-align: justify;
+	padding: 10px;
+	font-size: 20px;
+}
+.me span {
+	color: #1a38cc;
+}
+.foot {
+	border-top: 1px solid #eee;
+	margin-top: 50px;
+}
+.foot p {
+	text-align: center;
+	padding: 10px;
+	color: #999e88;
+}

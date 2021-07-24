@@ -1,0 +1,68 @@
+/* for tablet */
+@media all and (max-width: 1200px) {
+	.header-right {
+		margin-right: 20px;
+	}
+	.header-right a {
+		padding: 0 20px;
+	}
+	.fix {
+		font-size: 30px;
+		margin-top: 400px;
+		text-align: center;
+	}
+}
+
+/* for handphone */
+@media all and (max-width: 1000px) {
+	.fix {
+		font-size: 28px;
+		margin-top: 400px;
+	}
+}
+@media all and (max-width: 670px) {
+	.header-right {
+		margin-right: 25px;
+	}
+	.header-right a {
+		padding: 0 10px;
+	}
+	.fix {
+		margin-top: 350px;
+		font-size: 18px;
+	}
+}
+@media all and (max-width: 370px) {
+	.header-right {
+		margin-right: 20px;
+	}
+	.header-right a {
+		padding: 0 5px;
+		font-size: 14px;
+	}
+	.header-left a {
+		padding-left: 5px;
+		font-size: 18px;
+	}
+	.fix {
+		font-size: 16px;
+		margin-top: 300px;
+	}
+}
+@media all and (max-width: 280px) {
+	.header-right {
+		margin-right: 15px;
+	}
+	.header-right a {
+		padding: 0 3px;
+		font-size: 12px;
+	}
+	.header-left a {
+		padding-left: 3px;
+		font-size: 14px;
+	}
+	.fix {
+		font-size: 13px;
+		margin-top: 350px;
+	}
+}
